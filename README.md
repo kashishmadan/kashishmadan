@@ -5,5 +5,5 @@ I'm a Full Stack Web and Mobile App Developer. I am currently working at Bristle
 Some of my key skills include - Flutter, React Native, React, Bootstrap, JavaScript, PHP, Python and C++
 
 - 💬 Ask me about anything and everything! 
-- 📫 How to reach me: kashish.madan@outlook.com or 
+- 📫 How to reach me: kashish.madan@outlook.com
 - ⚡ Fun fact: I love watching football and eating food! 
