@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Full Stack Web and Mobile App Developer. I have worked at Bristlecone as an Intern on Data Migration, Electron and Flask applications. I really enjoy making clean and interactive UI which is easy to use. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new.
+I'm a Full Stack Web and Mobile App Developer. I am currently working as an App Developer at Universite Grenoble Alpes. I also have experience working at Bristlecone as an Intern on Data Migration, Electron and Flask applications. I really enjoy making clean and interactive UI which is easy to use. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new.
 
 Some of my key skills include - Flutter, React and React Native, Electron, Bootstrap, JavaScript, PHP, Python and C++
 
