@@ -4,7 +4,7 @@ I am currently pursuing Master of Science in Computer Science at the University 
 
 My top skills are C++, Java, Python, React, Swift, Flutter, C#, .NET, Node.js, Operating Systems, Linux/UNIX, Machine Learning, Neural Networks, and Artificial Intellgence.
 
-I am open to internships starting January 2024 and full-time roles starting May 2024.
+Outside of my usual work schedule, I am building @instaiform to help you create simple forms using AI :) 
 
 #### Website: www.kashishmadan.com
 #### Email: kashish.madan@outlook.com
